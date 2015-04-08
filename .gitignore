@@ -1,2 +1,15 @@
+npm-debug.log
+
 node_modules
+bower_components
+
 config.js
+
+*.db
+*.db-journal
+
+*.*.swp
+
+core/client/config.js
+
+coverage.html
