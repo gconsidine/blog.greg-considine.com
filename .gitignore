@@ -13,3 +13,6 @@ config.js
 core/client/config.js
 
 coverage.html
+
+content/themes/casper/assets/js/blog.min.js
+content/themes/casper/assets/css/blog.min.css
