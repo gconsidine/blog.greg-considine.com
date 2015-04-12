@@ -1,3 +1,7 @@
+if(process.env.NODE_NEWRELIC) {
+  require('newrelic');
+}
+
 // # Ghost bootloader
 // Orchestrates the loading of Ghost
 // When run from command line.
